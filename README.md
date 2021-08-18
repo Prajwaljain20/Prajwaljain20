@@ -9,6 +9,9 @@
   <li>🙋🏻‍♂️Ask me anything, happy to help</li>
 </ul><br/>
 
+**Languages and Tools**
+[![C](https://img.shields.io/badge/-C-A8B9CC?logo=C&logoColor=black&style=flat-square&logoWidth=30)]
+
 📈 **My GitHub Stats:**
 <p>
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Prajwaljain20&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
