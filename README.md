@@ -1,5 +1,5 @@
 ### Hi there, I'm Prajwal Jain 👋
-## Glad to see you 
+## Glad to see you  &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=Prajwaljain20.Prajwaljain20)
 <!--
 **Prajwaljain20/Prajwaljain20** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
