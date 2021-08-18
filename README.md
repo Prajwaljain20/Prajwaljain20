@@ -11,7 +11,7 @@
   <li>🙋🏻‍♂️Ask me anything, happy to help</li>
 </ul><br/>
 
-**Languages and Tools**<br>
+**Languages and Tools**<br/><br/>
 ![C](https://img.shields.io/badge/-C-A8B9CC?logo=C&logoColor=black&style=flat-square&logoWidth=30)
 ![C++](https://img.shields.io/badge/-C%2b%2b-00599C?logo=C%2b%2b&logoColor=black&style=flat-square&logoWidth=30)
 ![Java](https://img.shields.io/badge/-Java-007396?logo=Java&logoColor=black&style=flat-square&logoWidth=30)
@@ -20,7 +20,7 @@
 ![PHP](https://img.shields.io/badge/-PHP-777BB4?logo=PHP&logoColor=black&style=flat-square&logoWidth=30)
 ![JS](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=JavaScript&logoColor=black&style=flat-square&logoWidth=30)
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=Python&logoColor=black&style=flat-square&logoWidth=30)
-![Mysql](https://img.shields.io/badge/-MySQL-4479A1?logo=MySQL&logoColor=white&style=flat-square&logoWidth=30)
+![Mysql](https://img.shields.io/badge/-MySQL-4479A1?logo=MySQL&logoColor=black&style=flat-square&logoWidth=30)
 ![Numpy](https://img.shields.io/badge/-NumPy-013243?logo=NumPy&logoColor=lightblue&style=flat-square&logoWidth=30)
 ![Pandas](https://img.shields.io/badge/-pandas-150458?logo=pandas&logoColor=white&style=flat-square&logoWidth=30)
 ![VS Code](https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC?logo=Visual%20Studio%20Code&logoColor=white&style=flat-square&logoWidth=30)
