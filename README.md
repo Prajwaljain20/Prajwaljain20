@@ -1,4 +1,3 @@
-<link rel=”stylesheet” href=”https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css”>
 ### Hi there, I'm Prajwal Jain 👋
 [![Linkedin Badge]<a href="#" class="fa fa-linkedin"></a>(https://linkedin.com/in/gapur-kassym)
 [![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://gkassym.netlify.app)
