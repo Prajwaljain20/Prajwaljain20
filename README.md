@@ -4,6 +4,7 @@
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/prajwaljainn/)
 [![Telegram Badge](https://img.shields.io/badge/-Telegram-0088cc?style=flat-square&logo=Telegram&logoColor=white)](https://t.me/Lone_Wolf20)
 [![Hackerrank Badge](https://img.shields.io/badge/-Hacker%20Rank-00EA64?logo=HackerRank&logoColor=39424e&style=flat-square&logoWidth=30)](https://www.hackerrank.com/jainprajwal2000)
+[![Mail](https://img.shields.io/badge/-Mail-EA4335?logo=Gmail&logoColor=white&style=flat-square&logoWidth=30)](mailto:"jainprajwal2000@gmail.com")
 
 ## Glad to see you  &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=Prajwaljain20.Prajwaljain20)
 <ul style="diamond">
