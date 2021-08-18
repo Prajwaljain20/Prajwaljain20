@@ -9,10 +9,8 @@
   <li>🙋🏻‍♂️Ask me anything, happy to help</li>
 </ul><br/>
 
-**Languages and Tools**
-<p style="align:center">
+**Languages and Tools**<br>
 ![C](https://img.shields.io/badge/-C-A8B9CC?logo=C&logoColor=black&style=flat-square&logoWidth=30)(#)
-</p>
 
 📈 **My GitHub Stats:**
 <p>
