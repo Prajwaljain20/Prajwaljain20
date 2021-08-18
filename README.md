@@ -10,7 +10,9 @@
 </ul><br/>
 
 **Languages and Tools**
-[![C](https://img.shields.io/badge/-C-A8B9CC?logo=C&logoColor=black&style=flat-square&logoWidth=30)]
+<p style="align:center">
+![C](https://img.shields.io/badge/-C-A8B9CC?logo=C&logoColor=black&style=flat-square&logoWidth=30)(#)
+</p>
 
 📈 **My GitHub Stats:**
 <p>
