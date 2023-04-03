@@ -13,20 +13,20 @@
 </ul><br/>
 
 **Languages and Tools**<br/><br/>
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=plastic&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=plastic&logo=c%2B%2B&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=plastic&logo=openjdk&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=plastic&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=plastic&logo=css3&logoColor=white)
 ![JS](https://img.shields.io/badge/JavaScript-323330?style=plastic&logo=javascript&logoColor=F7DF1E)
-![TS](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
-![Nodejs](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Mysql](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
-![Numpy](https://img.shields.io/badge/-NumPy-013243?logo=NumPy&logoColor=lightblue&style=flat-square&logoWidth=30)
-![Pandas](https://img.shields.io/badge/-pandas-150458?logo=pandas&logoColor=white&style=flat-square&logoWidth=30)
+![TS](https://img.shields.io/badge/TypeScript-007ACC?style=plastic&logo=typescript&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=plastic&logo=angular&logoColor=white)
+![Nodejs](https://img.shields.io/badge/Node.js-43853D?style=plastic&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express.js-404D59?style=plastic)
+![Python](https://img.shields.io/badge/Python-3776AB?style=plastic&logo=python&logoColor=white)
+![Mysql](https://img.shields.io/badge/MySQL-00000F?style=plastic&logo=mysql&logoColor=white)
+![Numpy](https://img.shields.io/badge/-NumPy-013243?logo=NumPy&logoColor=lightblue&style=plastic&logoWidth=30)
+![Pandas](https://img.shields.io/badge/-pandas-150458?logo=pandas&logoColor=white&style=plastic&logoWidth=30)
 
 📈 **My GitHub Stats:**
 <p>
