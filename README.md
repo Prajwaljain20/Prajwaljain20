@@ -8,7 +8,7 @@
 
 ## Glad to see you  &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=Prajwaljain20.Prajwaljain20)
 <ul style="diamond">
-  <li>📚Currently learning Data structures and Algorithms</li>
+  <li>Working as a Frontend Developer in Angular technology💻</li>
   <li>🙋🏻‍♂️Ask me anything, happy to help</li>
 </ul><br/>
 
