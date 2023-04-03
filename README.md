@@ -1,10 +1,10 @@
 ### Hi there, I'm Prajwal Jain 👋
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/prajwaljain20/)
-[![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/Prajwal14438770)
-[![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/prajwaljainn/)
-[![Telegram Badge](https://img.shields.io/badge/-Telegram-0088cc?style=flat-square&logo=Telegram&logoColor=white)](https://t.me/Lone_Wolf20)
-[![Hackerrank Badge](https://img.shields.io/badge/-Hacker%20Rank-00EA64?logo=HackerRank&logoColor=39424e&style=flat-square&logoWidth=30)](https://www.hackerrank.com/jainprajwal2000)
-[![Mail](https://img.shields.io/badge/-Mail-EA4335?logo=Gmail&logoColor=white&style=flat-square&logoWidth=30)](mailto:"jainprajwal2000@gmail.com")
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=plastic&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/prajwaljain20/)
+[![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=plastic&logo=Twitter&logoColor=white)](https://twitter.com/Prajwal14438770)
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=plastic&logo=Instagram&logoColor=white)](https://www.instagram.com/prajwaljainn/)
+[![Telegram Badge](https://img.shields.io/badge/-Telegram-0088cc?style=plastic&logo=Telegram&logoColor=white)](https://t.me/Lone_Wolf20)
+[![Hackerrank Badge](https://img.shields.io/badge/-Hacker%20Rank-00EA64?logo=HackerRank&logoColor=39424e&style=plastic&logoWidth=30)](https://www.hackerrank.com/jainprajwal2000)
+[![Mail](https://img.shields.io/badge/-Mail-EA4335?logo=Gmail&logoColor=white&style=plastic&logoWidth=30)](mailto:"jainprajwal2000@gmail.com")
 
 ## Glad to see you  &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=Prajwaljain20.Prajwaljain20)
 <ul style="diamond">
