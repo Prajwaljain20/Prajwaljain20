@@ -13,18 +13,20 @@
 </ul><br/>
 
 **Languages and Tools**<br/><br/>
-![C](https://img.shields.io/badge/-C-A8B9CC?logo=C&logoColor=black&style=flat-square&logoWidth=30)
-![C++](https://img.shields.io/badge/-C%2b%2b-00599C?logo=C%2b%2b&logoColor=black&style=flat-square&logoWidth=30)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Java](https://img.shields.io/badge/-Java-007396?logo=Java&logoColor=black&style=flat-square&logoWidth=30)
-![HTML](https://img.shields.io/badge/-HTML5-E34F26?logo=HTML5&logoColor=white&style=flat-square&logoWidth=30)
-![CSS](https://img.shields.io/badge/-CSS-1572B6?logo=CSS3&logoColor=white&style=flat-square&logoWidth=30)
-![PHP](https://img.shields.io/badge/-PHP-777BB4?logo=PHP&logoColor=black&style=flat-square&logoWidth=30)
-![JS](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=JavaScript&logoColor=black&style=flat-square&logoWidth=30)
-![Python](https://img.shields.io/badge/-Python-3776AB?logo=Python&logoColor=black&style=flat-square&logoWidth=30)
-![Mysql](https://img.shields.io/badge/-MySQL-4479A1?logo=MySQL&logoColor=black&style=flat-square&logoWidth=30)
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JS](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![TS](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![Nodejs](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Mysql](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 ![Numpy](https://img.shields.io/badge/-NumPy-013243?logo=NumPy&logoColor=lightblue&style=flat-square&logoWidth=30)
 ![Pandas](https://img.shields.io/badge/-pandas-150458?logo=pandas&logoColor=white&style=flat-square&logoWidth=30)
-![VS Code](https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC?logo=Visual%20Studio%20Code&logoColor=white&style=flat-square&logoWidth=30)
 
 📈 **My GitHub Stats:**
 <p>
