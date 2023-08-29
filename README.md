@@ -25,6 +25,7 @@
 ![Express](https://img.shields.io/badge/Express.js-404D59?style=plastic)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=plastic&logo=python&logoColor=white)
 ![Mysql](https://img.shields.io/badge/MySQL-00000F?style=plastic&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-ffffff?style=plastic&logo=mongodb&logoColor=12701A)
 ![Numpy](https://img.shields.io/badge/-NumPy-013243?logo=NumPy&logoColor=lightblue&style=plastic&logoWidth=30)
 ![Pandas](https://img.shields.io/badge/-pandas-150458?logo=pandas&logoColor=white&style=plastic&logoWidth=30)
 
